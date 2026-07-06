@@ -1,6 +1,15 @@
 ## Hi there 👋 I'm Ashi
-Passionate about solving complex real-world challenges through technology. Currently focused on mastering C++ and Data Structures 
+<table>
+  <tr>
+    <td valign="center" width="70%">
+      Passionate about solving complex real-world challenges through technology. Currently focused on mastering C++ and Data Structures 
 and Algorithms. Actively working on building diverse software projects and exploring AI integration. Gaining practical industry experience through freelancing. Eager to learn continuously and collaborate on innovative ideas.
+</td>
+    <td valign="center" width="30%">
+    <img width="300" height="100" alt="gif (1)" src="https://github.com/user-attachments/assets/12b79e27-cc7e-4da6-84de-2e3dedfb9fde" />
+ </td>
+  </tr>
+</table>
 <h3 align="right">🌟Follow Me On:</h3>
 <div align="right">
   <a href="linkedin.com/in/ashi-singh-743164314" style="text-decoration: none;">
@@ -72,7 +81,7 @@ and Algorithms. Actively working on building diverse software projects and explo
     </td>
     <td align="center" width="40%" valign="top">
       <h3>Random Dev Quote</h3>
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Dev Quote" />
+      <img src="https://quotes-github-readme.vercel.app/api?&theme=dark" alt="Dev Quote" />
     </td>
   </tr>
 </table>
