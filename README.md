@@ -10,8 +10,8 @@ and Algorithms. Actively working on building diverse software projects and explo
  </td>
   </tr>
 </table>
-<h3 align="right">🌟Follow Me On:</h3>
-<div align="right">
+<h3 align="left">🌟Follow Me On:</h3>
+<div align="left">
   <a href="linkedin.com/in/ashi-singh-743164314" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
