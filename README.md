@@ -64,9 +64,8 @@ and Algorithms. Actively working on building diverse software projects and explo
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40" />
   <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="40" />
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="40" />
-  <img src="https://skillicons.dev/icons?i=canva" alt="Canva" height="40" />
-  <img src="https://skillicons.dev/icons?i=excel" alt="Excel" height="40" />
-</p>
+ <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" height="40" />
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" />
 <div align="left">
   <h3>GitHub Stats:</h3>
 </div>
